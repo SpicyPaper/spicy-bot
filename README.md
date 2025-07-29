@@ -1,0 +1,2 @@
+# spicy-bot
+Discord bot
